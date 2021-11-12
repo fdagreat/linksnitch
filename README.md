@@ -2,6 +2,11 @@
 
 A GitHub Action that automatically check if some link in your README.md is broken or not responding.
 
+Test Links
+https://github.com/fdagreat/fdagreat 
+
+https://github.com/fdagreat/fdagreattttttt
+
 ## How to use
 ```yml
 name: A workflow that check if links in README.md is working
