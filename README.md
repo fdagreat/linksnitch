@@ -5,7 +5,6 @@ A GitHub Action that automatically check if some link in your README.md is broke
 Test Links
 https://github.com/fdagreat/fdagreat 
 
-https://github.com/fdagreat/fdagreattttttt
 
 ## How to use
 ```yml
